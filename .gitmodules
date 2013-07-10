@@ -1,0 +1,3 @@
+[submodule "python_hue"]
+	path = python_hue
+	url = git@github.com:abulte/python-hue.git
